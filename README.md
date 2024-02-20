@@ -48,3 +48,13 @@ pip install -r requirements.txt
 ```shell
 arch -arm64 python3 bulk-copy.py
 ```
+
+## Thanks
+
+I would like to express our sincere gratitude to the original creator of this project in javascript:
+
+- [josethz00](https://github.com/josethz00/copy-vs-insert)
+
+## License
+
+AGPL-3.0
